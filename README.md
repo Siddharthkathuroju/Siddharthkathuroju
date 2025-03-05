@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Siddharth
 - 👀 I’m interested in Backened Development and building some cool projects using Machine Learning(ML).
-- 🌱 I’m currently learning Deep Learning and LLMs
+- 🌱 I’m currently learning Deep learning
 - 📫 How to reach me : Mail : siddharthkathuroju@gmail.com ; LinkedIn : https://www.linkedin.com/feed/
 - 😄 Pronouns: He/Him
 
