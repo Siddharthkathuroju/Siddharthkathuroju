@@ -12,9 +12,10 @@ Web Developer | ML Enthusiast | Open-Source Contributor
 
 ## 💻 Technical Skills  
 ### 🚀 Full Stack Development
-- Frontend: Next.js, React.js
+- Frontend: Next.js
 - Backend: Flask  
-- Databases: MongoDB, SQL, Redis  
+- Databases: MongoDB, SQL, Redis
+- Github, postman
 
 ### 🤖 Machine Learning & AI  
 - ML/DL: Scikit-Learn, TensorFlow  
