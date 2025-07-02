@@ -33,8 +33,8 @@ Tech Stack: Next.js, Flask, DeepSeek-Coder
 - Smart **resume classification & suggestion** system  
 - Tracks progress & provides certification recommendations  
 
-### 3️⃣ **QuerySolve 📚**  
-**Tech Stack:** Next.js, Tailwind CSS  
+### 3️⃣ **StudPro 📚**  
+**Tech Stack:** Django, CSS  
 - **AI-powered Q&A platform** with profile tracking & to-do lists  
 
 ## 📬 Connect With Me  
